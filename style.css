@@ -383,6 +383,10 @@ img {
     color: var(--first-color);
 }
 
+.button--white:hover{
+    color: #FFF;
+}
+
 .button--flex {
     display: inline-flex;
     align-items: center;
